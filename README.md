@@ -30,4 +30,4 @@ sudo docker run --detach \
 - https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
 
 ## Exploit-DB
-- Soon
+- https://www.exploit-db.com/exploits/49951
