@@ -27,7 +27,7 @@ sudo docker run --detach \
 
 ## Credits
 - https://hackerone.com/reports/1154542 : vakzz
-
+- https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
 
 ## Exploit-DB
 - Soon
